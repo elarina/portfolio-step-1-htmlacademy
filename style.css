@@ -149,6 +149,11 @@ body {
   margin: 0 0 80px;
 }
 
+.project {
+  margin-bottom: 50px;
+  padding-bottom: 25px;
+}
+
 .project-image {
   margin: 0 0 24px;
   text-align: center;
